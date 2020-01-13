@@ -1,5 +1,5 @@
 def roll_call_dwarves(array)# code an argument here
-  hash = {}
+  array.each_with_index 
   
 end
 
