@@ -7,6 +7,9 @@ end
 
 def summon_captain_planet(planets)
   array = []
+  planets.map { |name| 
+    
+  }
   
 end
 
