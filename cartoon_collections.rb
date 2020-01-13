@@ -1,8 +1,10 @@
 def roll_call_dwarves(array)# code an argument here
   array_new = []
   array.each_with_index { |item, index|
-    array_new[item] = 
-    
+    array_new[item] = index
+  }
+  array_new.each { |word|
+    puts word
   }
     
 end
