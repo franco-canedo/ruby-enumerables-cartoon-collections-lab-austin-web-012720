@@ -6,10 +6,8 @@ def roll_call_dwarves(dwarves)
 end
 
 def summon_captain_planet(planets)
-  array = []
-  planets.map { |name| 
-    
-  }
+  
+  array = planets.map { |name| name }
   
 end
 
